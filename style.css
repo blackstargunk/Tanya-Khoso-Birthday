@@ -1,0 +1,39 @@
+h1 {
+    color: #9C2C77;}
+
+h3 {
+    color: #9C2C77;}
+
+body {
+   background-color: #FD841F;
+   }
+
+p {
+    color: #CD104D;
+    }
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.phrase{
+    font-size: 100px;}
+.phrase:hover{
+    color: #E14D2A;}
+
+.forecast{
+    font-size:60px;}
+
+h2 {
+    position: absolute;
+    bottom: 10px;
+    width: 80%;
+}
+
+.profile {
+    border-radius: 100%;}
+
+td {
+    color: #FFD1D1;
+    }
